@@ -1,6 +1,6 @@
 # Nahathai Wonganawat
 
-Computer science student building games, interactive web projects, and machine learning experiments.
+Electrical Engineering and Computer science student building games, interactive web projects, and machine learning experiments.
 
 ## What I work on
 
